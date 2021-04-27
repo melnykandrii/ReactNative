@@ -1,0 +1,12 @@
+{
+  "name": "CountDown",
+  "displayName": "CountDown",
+  "expo": {
+    "name": "CountDown",
+    "slug": "CountDown",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
